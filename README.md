@@ -36,19 +36,6 @@ Estou em busca da minha **primeira oportunidade de estágio em Front-End**, para
 |---|---|---|
 | [NEKOBUS](https://github.com/giovannacmc/NEKOBUS) | Plataforma web sobre Smart Cities (paradas de ônibus com energia solar), com mapa interativo e dashboard. Atuei no front-end. | HTML · CSS · JS · Leaflet.js · Chart.js |
 | [Ateliê da Lina](https://github.com/giovannacmc/atelie-da-lina) | Landing page responsiva de um ateliê de crochê, desenvolvida do zero. | HTML5 · CSS3 · Flexbox · Grid |
-| [Gerador de Senhas](https://github.com/giovannacmc/Gerador-de-senhas) | Gerador de senhas personalizável (tamanho, números, símbolos, maiúsculas). | HTML · CSS · JavaScript |
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas de Giovanna](https://github-readme-stats.vercel.app/api?username=giovannacmc&show_icons=true&theme=default&hide_border=true&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacmc&layout=compact&theme=default&hide_border=true&locale=pt-br)
-
-</div>
 
 ---
 
