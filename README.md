@@ -10,7 +10,7 @@
 
 Sou estudante de ADS (conclusão prevista para 2027) com foco em desenvolvimento **Front-End**. Gosto de transformar ideias em interfaces funcionais e bem-acabadas, cuidando tanto do código quanto da experiência de quem usa.
 
-Estou em busca da minha **primeira oportunidade de estágio em Front-End**, para aplicar o que venho estudando e crescer aprendendo com um time.
+Estou em busca de ** oportunidades de estágio em Front-End**, para aplicar o que venho estudando e crescer aprendendo com um time.
 
 - 🌱 Aprendendo e praticando: HTML, CSS, JavaScript e Git
 - 🎨 Uso Figma para prototipação de telas
