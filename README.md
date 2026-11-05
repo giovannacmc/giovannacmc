@@ -1,32 +1,57 @@
-<h1 align="center">Olá! Eu sou a Giovanna 👋</h1>
+
+<h1 align="center">Olá, eu sou a Giovanna! 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas • Front-End em formação
+  Desenvolvedora Front-End | UX/UI Design | Quality Assurance
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/giovannacarolinacamargo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:giovannacarolina052@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/giovannacmc">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 💻 Sobre mim
 
-Sou estudante de ADS (conclusão prevista para 2027) com foco em desenvolvimento **Front-End**. Gosto de transformar ideias em interfaces funcionais e bem-acabadas, cuidando tanto do código quanto da experiência de quem usa.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Facens**, com conclusão prevista para 2027, e foco em **Desenvolvimento Front-End**.
 
-Estou em busca de **oportunidades de estágio em Front-End**, para aplicar o que venho estudando e crescer aprendendo com um time.
+Tenho experiência profissional em **UX/UI Design e Quality Assurance (QA)**, atuando com prototipação de interfaces no Figma, testes funcionais, identificação de bugs e metodologias ágeis.
 
-- 🌱 Aprendendo e praticando: HTML, CSS, JavaScript e Git
-- 🎨 Uso Figma para prototipação de telas
-- 💬 Trago experiência em atendimento e suporte: comunicação clara e resolução de problemas
+No desenvolvimento, trabalho com **HTML, CSS, JavaScript, TypeScript, React, Next.js e Angular**, aplicando esses conhecimentos na criação de projetos web e interfaces responsivas.
+
+Atualmente, busco **oportunidades de estágio ou posições júnior em Front-End**, mantendo também interesse em UX/UI Design e QA.
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
+### Tecnologias e ferramentas
+
+**Front-End**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Banco de dados e ferramentas**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -34,12 +59,24 @@ Estou em busca de **oportunidades de estágio em Front-End**, para aplicar o que
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [NEKOBUS](https://github.com/giovannacmc/NEKOBUS) | Plataforma web sobre Smart Cities (paradas de ônibus com energia solar), com mapa interativo e dashboard. Atuei no front-end. | HTML · CSS · JS · Leaflet.js · Chart.js |
-| [Ateliê da Lina](https://github.com/giovannacmc/atelie-da-lina) | Landing page responsiva de um ateliê de crochê, desenvolvida do zero. | HTML5 · CSS3 · Flexbox · Grid |
+| [AutoStore AI](https://github.com/giovannacmc/autostore-ai) | Aplicação web para catálogo e comparação de veículos, com painel administrativo e assistente de IA integrado ao Gemini. | Next.js, React, TypeScript, Tailwind CSS, PostgreSQL |
+| [Portfólio Pessoal](https://github.com/giovannacmc/portfolio) | Portfólio responsivo com modo claro/escuro, animações interativas e interface personalizada. | Angular, TypeScript, HTML5, CSS3 |
+| [Ateliê da Lina](https://github.com/giovannacmc/atelie-da-lina) | Landing page responsiva para divulgação de produtos artesanais, desenvolvida do zero. | HTML5, CSS3, Flexbox, Grid |
 
 ---
 
-### 📫 Onde me encontrar
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannacmc&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacmc&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+Estou aberta a oportunidades, colaborações e troca de experiências na área de tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannacarolinacamargo)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannacarolina052@gmail.com)
