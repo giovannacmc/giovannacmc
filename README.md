@@ -65,12 +65,14 @@ Atualmente, busco **oportunidades de estágio ou posições júnior em Front-End
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannacmc&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacmc&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovannacmc&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovannacmc&theme=github_dark" alt="Linguagens mais utilizadas" />
 </p>
+
 
 ---
 
